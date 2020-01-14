@@ -1,6 +1,6 @@
 ---
 layout: post
-category : episodes
+category : lessons
 tagline: "Episodio 1"
 tags : [intro, beginner, jekyll, tutorial]
 img : helloworld.jpg
