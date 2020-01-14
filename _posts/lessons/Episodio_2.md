@@ -1,13 +1,13 @@
 ---
 layout: post
-category : lessons
+category : episodes
 tagline: "Hello world post on helium jekyll"
 tags : [intro, beginner, jekyll, tutorial]
 img : helloworld.jpg
 img-mobile : 
 img2 : 
 img3 : 
-author : Antonio Trento
+author : Ivan Franco, Yamil Fajouri
 title2 : 
 title3 : 
 css: 
