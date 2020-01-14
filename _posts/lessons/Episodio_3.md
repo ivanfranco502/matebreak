@@ -1,13 +1,13 @@
 ---
 layout: post
-category : lessons
+category : episodes
 tagline: "How to test your Jekyll site locally"
 tags : [intro, beginner, jekyll, tutorial]
 img : helium-theme-post.jpg
 img-mobile : 
 img2 : 
 img3 : 
-author : Antonio Trento
+author : Ivan Franco, Yamil Fajouri
 title2 : 
 title3 : 
 css: 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category : lessons
+category : episodes
 tagline: "Some elements for fullit from bootstrap 4"
 tags : [bootstrap, example, jekyll, components]
 img : 3.jpg
 img-mobile : 3-mobile.jpg
 img2 : 
 img3 : 
-author : Antonio Trento
+author : Ivan Franco, Yamil Fajouri
 title2 : New FullIt Theme
 title3 : Created for jekyll
 css: 
